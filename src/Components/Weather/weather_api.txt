@@ -1,0 +1,1 @@
+https://api.openweathermap.org/data/2.5/weather?q=ulhasnagar&appid=56b8d5b2c0e9ed3462a40b268314b92c

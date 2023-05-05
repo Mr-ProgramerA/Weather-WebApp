@@ -1,10 +1,9 @@
 import './App.css';
-import Todo from './Components/ToDoReact/todo';
-
+import Temp  from "./Components/Weather/temp"
 function App() {
   return (
     <>
-    <Todo/>
+    <Temp/>
     </>
   );
 }
